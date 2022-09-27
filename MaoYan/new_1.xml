@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.31">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name="glyph00000"/>
+    <GlyphID id="1" name="x"/>
+    <GlyphID id="2" name="uniE12D"/>
+    <GlyphID id="3" name="uniEEA5"/>
+    <GlyphID id="4" name="uniF5B5"/>
+    <GlyphID id="5" name="uniF607"/>
+    <GlyphID id="6" name="uniF192"/>
+    <GlyphID id="7" name="uniEFCB"/>
+    <GlyphID id="8" name="uniF695"/>
+    <GlyphID id="9" name="uniE081"/>
+    <GlyphID id="10" name="uniE531"/>
+    <GlyphID id="11" name="uniF5D7"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.0"/>
+    <checkSumAdjustment value="0x54af63bb"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="1200"/>
+    <created value="Mon Aug 22 04:00:30 2022"/>
+    <modified value="Mon Aug 22 04:00:30 2022"/>
+    <xMin value="0"/>
+    <yMin value="-20"/>
+    <xMax value="667"/>
+    <yMax value="868"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="8"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="0x00010000"/>
+    <ascent value="960"/>
+    <descent value="-240"/>
+    <lineGap value="108"/>
+    <advanceWidthMax value="667"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="0"/>
+    <xMaxExtent value="667"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="12"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="12"/>
+    <maxPoints value="49"/>
+    <maxContours value="3"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="10"/>
+    <maxFunctionDefs value="10"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="255"/>
+    <maxSizeOfInstructions value="0"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="1"/>
+    <xAvgCharWidth value="620"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00001000"/>
+    <ySubscriptXSize value="423"/>
+    <ySubscriptYSize value="840"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="168"/>
+    <ySuperscriptXSize value="423"/>
+    <ySuperscriptYSize value="840"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="576"/>
+    <yStrikeoutSize value="58"/>
+    <yStrikeoutPosition value="309"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="5"/>
+      <bProportion value="3"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="PfEd"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="120"/>
+    <usLastCharIndex value="63125"/>
+    <sTypoAscender value="960"/>
+    <sTypoDescender value="-240"/>
+    <sTypoLineGap value="108"/>
+    <usWinAscent value="960"/>
+    <usWinDescent value="240"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name="glyph00000" width="667" lsb="0"/>
+    <mtx name="uniE081" width="667" lsb="0"/>
+    <mtx name="uniE12D" width="667" lsb="0"/>
+    <mtx name="uniE531" width="667" lsb="0"/>
+    <mtx name="uniEEA5" width="667" lsb="0"/>
+    <mtx name="uniEFCB" width="667" lsb="0"/>
+    <mtx name="uniF192" width="667" lsb="0"/>
+    <mtx name="uniF5B5" width="667" lsb="0"/>
+    <mtx name="uniF5D7" width="667" lsb="0"/>
+    <mtx name="uniF607" width="667" lsb="0"/>
+    <mtx name="uniF695" width="667" lsb="0"/>
+    <mtx name="x" width="100" lsb="0"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0xe081" name="uniE081"/><!-- ???? -->
+      <map code="0xe12d" name="uniE12D"/><!-- ???? -->
+      <map code="0xe531" name="uniE531"/><!-- ???? -->
+      <map code="0xeea5" name="uniEEA5"/><!-- ???? -->
+      <map code="0xefcb" name="uniEFCB"/><!-- ???? -->
+      <map code="0xf192" name="uniF192"/><!-- ???? -->
+      <map code="0xf5b5" name="uniF5B5"/><!-- ???? -->
+      <map code="0xf5d7" name="uniF5D7"/><!-- ???? -->
+      <map code="0xf607" name="uniF607"/><!-- ???? -->
+      <map code="0xf695" name="uniF695"/><!-- ???? -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="148" language="0" nGroups="11">
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0xe081" name="uniE081"/><!-- ???? -->
+      <map code="0xe12d" name="uniE12D"/><!-- ???? -->
+      <map code="0xe531" name="uniE531"/><!-- ???? -->
+      <map code="0xeea5" name="uniEEA5"/><!-- ???? -->
+      <map code="0xefcb" name="uniEFCB"/><!-- ???? -->
+      <map code="0xf192" name="uniF192"/><!-- ???? -->
+      <map code="0xf5b5" name="uniF5B5"/><!-- ???? -->
+      <map code="0xf5d7" name="uniF5D7"/><!-- ???? -->
+      <map code="0xf607" name="uniF607"/><!-- ???? -->
+      <map code="0xf695" name="uniF695"/><!-- ???? -->
+    </cmap_format_12>
+    <cmap_format_0 platformID="1" platEncID="0" language="0">
+      <map code="0x78" name="x"/>
+    </cmap_format_0>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0xe081" name="uniE081"/><!-- ???? -->
+      <map code="0xe12d" name="uniE12D"/><!-- ???? -->
+      <map code="0xe531" name="uniE531"/><!-- ???? -->
+      <map code="0xeea5" name="uniEEA5"/><!-- ???? -->
+      <map code="0xefcb" name="uniEFCB"/><!-- ???? -->
+      <map code="0xf192" name="uniF192"/><!-- ???? -->
+      <map code="0xf5b5" name="uniF5B5"/><!-- ???? -->
+      <map code="0xf5d7" name="uniF5D7"/><!-- ???? -->
+      <map code="0xf607" name="uniF607"/><!-- ???? -->
+      <map code="0xf695" name="uniF695"/><!-- ???? -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="148" language="0" nGroups="11">
+      <map code="0x78" name="x"/><!-- LATIN SMALL LETTER X -->
+      <map code="0xe081" name="uniE081"/><!-- ???? -->
+      <map code="0xe12d" name="uniE12D"/><!-- ???? -->
+      <map code="0xe531" name="uniE531"/><!-- ???? -->
+      <map code="0xeea5" name="uniEEA5"/><!-- ???? -->
+      <map code="0xefcb" name="uniEFCB"/><!-- ???? -->
+      <map code="0xf192" name="uniF192"/><!-- ???? -->
+      <map code="0xf5b5" name="uniF5B5"/><!-- ???? -->
+      <map code="0xf5d7" name="uniF5D7"/><!-- ???? -->
+      <map code="0xf607" name="uniF607"/><!-- ???? -->
+      <map code="0xf695" name="uniF695"/><!-- ???? -->
+    </cmap_format_12>
+  </cmap>
+
+  <loca>
+    <!-- The 'loca' table will be calculated by the compiler -->
+  </loca>
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name="glyph00000"/><!-- contains no outline data -->
+
+    <TTGlyph name="uniE081" xMin="0" yMin="-10" xMax="621" yMax="868">
+      <contour>
+        <pt x="218" y="470" on="1"/>
+        <pt x="89" y="518" on="0"/>
+        <pt x="89" y="646" on="1"/>
+        <pt x="89" y="742" on="0"/>
+        <pt x="223" y="868" on="0"/>
+        <pt x="449" y="868" on="0"/>
+        <pt x="586" y="734" on="0"/>
+        <pt x="586" y="643" on="1"/>
+        <pt x="586" y="518" on="0"/>
+        <pt x="458" y="470" on="1"/>
+        <pt x="538" y="444" on="0"/>
+        <pt x="620" y="330" on="0"/>
+        <pt x="620" y="251" on="1"/>
+        <pt x="620" y="139" on="0"/>
+        <pt x="464" y="-10" on="0"/>
+        <pt x="210" y="-10" on="0"/>
+        <pt x="132" y="65" on="1"/>
+        <pt x="55" y="137" on="0"/>
+        <pt x="55" y="253" on="1"/>
+        <pt x="55" y="337" on="0"/>
+        <pt x="139" y="450" on="0"/>
+      </contour>
+      <contour>
+        <pt x="197" y="649" on="1"/>
+        <pt x="197" y="587" on="0"/>
+        <pt x="276" y="511" on="0"/>
+        <pt x="338" y="511" on="1"/>
+        <pt x="396" y="511" on="0"/>
+        <pt x="438" y="550" on="1"/>
+        <pt x="478" y="587" on="0"/>
+        <pt x="478" y="700" on="0"/>
+        <pt x="397" y="780" on="0"/>
+        <pt x="337" y="780" on="1"/>
+        <pt x="275" y="780" on="0"/>
+        <pt x="197" y="703" on="0"/>
+      </contour>
+      <contour>
+        <pt x="163" y="253" on="1"/>
+        <pt x="163" y="206" on="0"/>
+        <pt x="204" y="124" on="0"/>
+        <pt x="248" y="100" on="1"/>
+        <pt x="289" y="77" on="0"/>
+        <pt x="338" y="77" on="1"/>
+        <pt x="377" y="77" on="0"/>
+        <pt x="438" y="102" on="0"/>
+        <pt x="463" y="126" on="1"/>
+        <pt x="512" y="173" on="0"/>
+        <pt x="512" y="326" on="0"/>
+        <pt x="412" y="425" on="0"/>
+        <pt x="335" y="425" on="1"/>
+        <pt x="260" y="425" on="0"/>
+        <pt x="163" y="328" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE12D" xMin="0" yMin="-10" xMax="616" yMax="868">
+      <contour>
+        <pt x="56" y="428" on="1"/>
+        <pt x="56" y="584" on="0"/>
+        <pt x="86" y="673" on="1"/>
+        <pt x="118" y="767" on="0"/>
+        <pt x="242" y="868" on="0"/>
+        <pt x="336" y="868" on="1"/>
+        <pt x="473" y="868" on="0"/>
+        <pt x="544" y="758" on="1"/>
+        <pt x="577" y="708" on="0"/>
+        <pt x="596" y="631" on="1"/>
+        <pt x="616" y="559" on="0"/>
+        <pt x="616" y="428" on="1"/>
+        <pt x="616" y="353" on="0"/>
+        <pt x="601" y="230" on="0"/>
+        <pt x="584" y="184" on="1"/>
+        <pt x="552" y="90" on="0"/>
+        <pt x="431" y="-10" on="0"/>
+        <pt x="336" y="-10" on="1"/>
+        <pt x="212" y="-10" on="0"/>
+        <pt x="140" y="79" on="1"/>
+        <pt x="56" y="185" on="0"/>
+      </contour>
+      <contour>
+        <pt x="164" y="428" on="1"/>
+        <pt x="164" y="216" on="0"/>
+        <pt x="262" y="77" on="0"/>
+        <pt x="336" y="77" on="1"/>
+        <pt x="408" y="77" on="0"/>
+        <pt x="508" y="217" on="0"/>
+        <pt x="508" y="640" on="0"/>
+        <pt x="457" y="710" on="1"/>
+        <pt x="409" y="780" on="0"/>
+        <pt x="262" y="780" on="0"/>
+        <pt x="218" y="719" on="1"/>
+        <pt x="164" y="640" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniE531" xMin="0" yMin="-10" xMax="618" yMax="868">
+      <contour>
+        <pt x="498" y="646" on="1"/>
+        <pt x="484" y="708" on="0"/>
+        <pt x="458" y="736" on="1"/>
+        <pt x="415" y="780" on="0"/>
+        <pt x="353" y="780" on="1"/>
+        <pt x="302" y="780" on="0"/>
+        <pt x="264" y="752" on="1"/>
+        <pt x="214" y="715" on="0"/>
+        <pt x="186" y="647" on="1"/>
+        <pt x="172" y="612" on="0"/>
+        <pt x="156" y="512" on="0"/>
+        <pt x="156" y="448" on="1"/>
+        <pt x="194" y="506" on="0"/>
+        <pt x="304" y="562" on="0"/>
+        <pt x="365" y="562" on="1"/>
+        <pt x="469" y="562" on="0"/>
+        <pt x="618" y="406" on="0"/>
+        <pt x="618" y="283" on="1"/>
+        <pt x="618" y="203" on="0"/>
+        <pt x="548" y="64" on="0"/>
+        <pt x="428" y="-10" on="0"/>
+        <pt x="349" y="-10" on="1"/>
+        <pt x="217" y="-10" on="0"/>
+        <pt x="52" y="181" on="0"/>
+        <pt x="52" y="407" on="1"/>
+        <pt x="52" y="656" on="0"/>
+        <pt x="143" y="769" on="1"/>
+        <pt x="223" y="868" on="0"/>
+        <pt x="359" y="868" on="1"/>
+        <pt x="461" y="868" on="0"/>
+        <pt x="526" y="810" on="1"/>
+        <pt x="589" y="755" on="0"/>
+        <pt x="604" y="654" on="1"/>
+      </contour>
+      <contour>
+        <pt x="173" y="283" on="1"/>
+        <pt x="173" y="230" on="0"/>
+        <pt x="220" y="128" on="0"/>
+        <pt x="302" y="77" on="0"/>
+        <pt x="348" y="77" on="1"/>
+        <pt x="413" y="77" on="0"/>
+        <pt x="510" y="185" on="0"/>
+        <pt x="510" y="277" on="1"/>
+        <pt x="510" y="365" on="0"/>
+        <pt x="415" y="469" on="0"/>
+        <pt x="343" y="469" on="1"/>
+        <pt x="274" y="469" on="0"/>
+        <pt x="222" y="418" on="1"/>
+        <pt x="173" y="366" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniEEA5" xMin="0" yMin="-10" xMax="626" yMax="852">
+      <contour>
+        <pt x="167" y="239" on="1"/>
+        <pt x="179" y="156" on="0"/>
+        <pt x="266" y="77" on="0"/>
+        <pt x="331" y="77" on="1"/>
+        <pt x="408" y="77" on="0"/>
+        <pt x="461" y="134" on="1"/>
+        <pt x="514" y="194" on="0"/>
+        <pt x="514" y="378" on="0"/>
+        <pt x="410" y="481" on="0"/>
+        <pt x="330" y="481" on="1"/>
+        <pt x="278" y="481" on="0"/>
+        <pt x="198" y="436" on="0"/>
+        <pt x="174" y="398" on="1"/>
+        <pt x="74" y="410" on="1"/>
+        <pt x="157" y="852" on="1"/>
+        <pt x="584" y="852" on="1"/>
+        <pt x="584" y="751" on="1"/>
+        <pt x="242" y="751" on="1"/>
+        <pt x="196" y="521" on="1"/>
+        <pt x="234" y="547" on="0"/>
+        <pt x="316" y="575" on="0"/>
+        <pt x="358" y="575" on="1"/>
+        <pt x="470" y="575" on="0"/>
+        <pt x="625" y="420" on="0"/>
+        <pt x="625" y="296" on="1"/>
+        <pt x="625" y="181" on="0"/>
+        <pt x="557" y="95" on="1"/>
+        <pt x="474" y="-10" on="0"/>
+        <pt x="331" y="-10" on="1"/>
+        <pt x="214" y="-10" on="0"/>
+        <pt x="140" y="55" on="1"/>
+        <pt x="66" y="122" on="0"/>
+        <pt x="56" y="230" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniEFCB" xMin="0" yMin="-11" xMax="620" yMax="868">
+      <contour>
+        <pt x="162" y="246" on="1"/>
+        <pt x="180" y="156" on="0"/>
+        <pt x="265" y="77" on="0"/>
+        <pt x="330" y="77" on="1"/>
+        <pt x="404" y="77" on="0"/>
+        <pt x="506" y="180" on="0"/>
+        <pt x="506" y="256" on="1"/>
+        <pt x="506" y="329" on="0"/>
+        <pt x="460" y="376" on="1"/>
+        <pt x="410" y="424" on="0"/>
+        <pt x="338" y="424" on="1"/>
+        <pt x="307" y="424" on="0"/>
+        <pt x="264" y="412" on="1"/>
+        <pt x="276" y="504" on="1"/>
+        <pt x="282" y="504" on="0"/>
+        <pt x="286" y="503" on="1"/>
+        <pt x="293" y="503" on="1"/>
+        <pt x="361" y="503" on="0"/>
+        <pt x="468" y="574" on="0"/>
+        <pt x="468" y="647" on="1"/>
+        <pt x="468" y="704" on="0"/>
+        <pt x="392" y="780" on="0"/>
+        <pt x="328" y="780" on="1"/>
+        <pt x="266" y="780" on="0"/>
+        <pt x="185" y="706" on="0"/>
+        <pt x="173" y="626" on="1"/>
+        <pt x="67" y="644" on="1"/>
+        <pt x="86" y="752" on="0"/>
+        <pt x="155" y="809" on="1"/>
+        <pt x="224" y="868" on="0"/>
+        <pt x="325" y="868" on="1"/>
+        <pt x="395" y="868" on="0"/>
+        <pt x="455" y="836" on="1"/>
+        <pt x="514" y="808" on="0"/>
+        <pt x="577" y="702" on="0"/>
+        <pt x="577" y="587" on="0"/>
+        <pt x="517" y="497" on="0"/>
+        <pt x="458" y="470" on="1"/>
+        <pt x="534" y="452" on="0"/>
+        <pt x="619" y="342" on="0"/>
+        <pt x="619" y="258" on="1"/>
+        <pt x="619" y="146" on="0"/>
+        <pt x="455" y="-11" on="0"/>
+        <pt x="330" y="-11" on="1"/>
+        <pt x="216" y="-11" on="0"/>
+        <pt x="67" y="124" on="0"/>
+        <pt x="56" y="232" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniF192" xMin="0" yMin="0" xMax="620" yMax="854">
+      <contour>
+        <pt x="62" y="751" on="1"/>
+        <pt x="62" y="853" on="1"/>
+        <pt x="619" y="853" on="1"/>
+        <pt x="619" y="770" on="1"/>
+        <pt x="577" y="727" on="0"/>
+        <pt x="497" y="611" on="0"/>
+        <pt x="415" y="466" on="0"/>
+        <pt x="354" y="318" on="0"/>
+        <pt x="331" y="241" on="1"/>
+        <pt x="301" y="133" on="0"/>
+        <pt x="292" y="5" on="1"/>
+        <pt x="182" y="5" on="1"/>
+        <pt x="184" y="55" on="0"/>
+        <pt x="204" y="178" on="0"/>
+        <pt x="223" y="250" on="1"/>
+        <pt x="260" y="394" on="0"/>
+        <pt x="331" y="527" on="1"/>
+        <pt x="367" y="595" on="0"/>
+        <pt x="444" y="706" on="0"/>
+        <pt x="484" y="751" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniF5B5" xMin="0" yMin="0" xMax="616" yMax="864">
+      <contour>
+        <pt x="394" y="5" on="1"/>
+        <pt x="394" y="210" on="1"/>
+        <pt x="22" y="210" on="1"/>
+        <pt x="22" y="307" on="1"/>
+        <pt x="413" y="864" on="1"/>
+        <pt x="499" y="864" on="1"/>
+        <pt x="499" y="307" on="1"/>
+        <pt x="616" y="307" on="1"/>
+        <pt x="616" y="210" on="1"/>
+        <pt x="499" y="210" on="1"/>
+        <pt x="499" y="5" on="1"/>
+      </contour>
+      <contour>
+        <pt x="394" y="307" on="1"/>
+        <pt x="394" y="695" on="1"/>
+        <pt x="125" y="307" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniF5D7" xMin="0" yMin="-10" xMax="621" yMax="868">
+      <contour>
+        <pt x="173" y="212" on="1"/>
+        <pt x="186" y="140" on="0"/>
+        <pt x="258" y="77" on="0"/>
+        <pt x="316" y="77" on="1"/>
+        <pt x="366" y="77" on="0"/>
+        <pt x="437" y="121" on="0"/>
+        <pt x="484" y="196" on="0"/>
+        <pt x="500" y="259" on="1"/>
+        <pt x="508" y="290" on="0"/>
+        <pt x="516" y="355" on="0"/>
+        <pt x="516" y="388" on="1"/>
+        <pt x="516" y="397" on="1"/>
+        <pt x="516" y="402" on="0"/>
+        <pt x="515" y="409" on="1"/>
+        <pt x="485" y="359" on="0"/>
+        <pt x="428" y="328" on="1"/>
+        <pt x="376" y="296" on="0"/>
+        <pt x="310" y="296" on="1"/>
+        <pt x="203" y="296" on="0"/>
+        <pt x="56" y="450" on="0"/>
+        <pt x="56" y="577" on="1"/>
+        <pt x="56" y="708" on="0"/>
+        <pt x="209" y="868" on="0"/>
+        <pt x="326" y="868" on="1"/>
+        <pt x="408" y="868" on="0"/>
+        <pt x="548" y="778" on="0"/>
+        <pt x="620" y="608" on="0"/>
+        <pt x="620" y="452" on="1"/>
+        <pt x="620" y="287" on="0"/>
+        <pt x="550" y="92" on="0"/>
+        <pt x="408" y="-10" on="0"/>
+        <pt x="313" y="-10" on="1"/>
+        <pt x="211" y="-10" on="0"/>
+        <pt x="149" y="46" on="1"/>
+        <pt x="84" y="102" on="0"/>
+        <pt x="72" y="204" on="1"/>
+      </contour>
+      <contour>
+        <pt x="504" y="582" on="1"/>
+        <pt x="504" y="673" on="0"/>
+        <pt x="406" y="780" on="0"/>
+        <pt x="338" y="780" on="1"/>
+        <pt x="268" y="780" on="0"/>
+        <pt x="216" y="722" on="1"/>
+        <pt x="164" y="667" on="0"/>
+        <pt x="164" y="574" on="1"/>
+        <pt x="164" y="490" on="0"/>
+        <pt x="214" y="440" on="1"/>
+        <pt x="264" y="389" on="0"/>
+        <pt x="409" y="389" on="0"/>
+        <pt x="504" y="493" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniF607" xMin="0" yMin="0" xMax="610" yMax="868">
+      <contour>
+        <pt x="610" y="106" on="1"/>
+        <pt x="610" y="5" on="1"/>
+        <pt x="42" y="5" on="1"/>
+        <pt x="42" y="42" on="0"/>
+        <pt x="55" y="78" on="1"/>
+        <pt x="67" y="108" on="0"/>
+        <pt x="100" y="164" on="0"/>
+        <pt x="148" y="221" on="0"/>
+        <pt x="216" y="284" on="0"/>
+        <pt x="262" y="323" on="1"/>
+        <pt x="331" y="380" on="0"/>
+        <pt x="426" y="469" on="0"/>
+        <pt x="451" y="504" on="1"/>
+        <pt x="500" y="571" on="0"/>
+        <pt x="500" y="692" on="0"/>
+        <pt x="410" y="780" on="0"/>
+        <pt x="338" y="780" on="1"/>
+        <pt x="263" y="780" on="0"/>
+        <pt x="217" y="734" on="1"/>
+        <pt x="172" y="691" on="0"/>
+        <pt x="170" y="607" on="1"/>
+        <pt x="62" y="619" on="1"/>
+        <pt x="73" y="742" on="0"/>
+        <pt x="217" y="868" on="0"/>
+        <pt x="464" y="868" on="0"/>
+        <pt x="608" y="731" on="0"/>
+        <pt x="608" y="629" on="1"/>
+        <pt x="608" y="575" on="0"/>
+        <pt x="569" y="482" on="0"/>
+        <pt x="517" y="422" on="1"/>
+        <pt x="493" y="395" on="0"/>
+        <pt x="413" y="319" on="0"/>
+        <pt x="355" y="271" on="1"/>
+        <pt x="307" y="232" on="0"/>
+        <pt x="247" y="178" on="0"/>
+        <pt x="220" y="149" on="0"/>
+        <pt x="198" y="121" on="0"/>
+        <pt x="188" y="106" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uniF695" xMin="0" yMin="0" xMax="454" yMax="868">
+      <contour>
+        <pt x="454" y="5" on="1"/>
+        <pt x="348" y="5" on="1"/>
+        <pt x="348" y="677" on="1"/>
+        <pt x="310" y="641" on="0"/>
+        <pt x="185" y="569" on="0"/>
+        <pt x="137" y="550" on="1"/>
+        <pt x="137" y="652" on="1"/>
+        <pt x="224" y="692" on="0"/>
+        <pt x="292" y="752" on="1"/>
+        <pt x="324" y="782" on="0"/>
+        <pt x="372" y="840" on="0"/>
+        <pt x="385" y="868" on="1"/>
+        <pt x="454" y="868" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="x" xMin="0" yMin="-20" xMax="50" yMax="20">
+      <contour>
+        <pt x="20" y="20" on="1"/>
+        <pt x="50" y="20" on="1"/>
+        <pt x="50" y="-20" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+  </glyf>
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      
+  Created by font-carrier
+  
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Untitled
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.0
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Generated by svg2ttf from Fontello project.
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      http://fontello.com
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      
+  Created by font-carrier
+  
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Untitled
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.0
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Untitled-Regular
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Generated by svg2ttf from Fontello project.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://fontello.com
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="12"/>
+    <underlineThickness value="0"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+      <psName name="glyph00000" psName=""/>
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name=""/>
+      <psName name="x"/>
+      <psName name="uniE12D"/>
+      <psName name="uniEEA5"/>
+      <psName name="uniF5B5"/>
+      <psName name="uniF607"/>
+      <psName name="uniF192"/>
+      <psName name="uniEFCB"/>
+      <psName name="uniF695"/>
+      <psName name="uniE081"/>
+      <psName name="uniE531"/>
+      <psName name="uniF5D7"/>
+    </extraNames>
+  </post>
+
+  <GSUB>
+    <Version value="0x00010000"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="0"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0">
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
